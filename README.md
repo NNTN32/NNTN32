@@ -1,7 +1,7 @@
-                                                                         # 👋 Hi, I'm Nhan!
-                                                    🌟 Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
+                                                      # 👋 Hi, I'm Nhan!
+                                      🌟 Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
 
-                               Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
+                      Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
 ## 🛠️ Skills & Tools
 
@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ### **Frameworks**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) !(https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
