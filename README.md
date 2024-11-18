@@ -31,4 +31,6 @@ Feel free to reach out and connect with me on the following platforms:
   <a href="https://github.com/NNTN32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-🔧 **Let's code, build, and innovate!** 🚀
+<p align="center">
+  <a>🔧 **Let's code, build, and innovate!** 🚀</a>
+</p>
