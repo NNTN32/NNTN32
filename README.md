@@ -17,7 +17,7 @@
 
 ## 🌟 Featured Projects
 - A full-featured e-commerce platform offering clothes and accessories.
-- GitHub: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
+  GitHub: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
 
 ---
 
