@@ -40,28 +40,28 @@ Feel free to reach out and connect with me on the following platforms:
                                     🎯 Business Analyst | Problem Solver | Innovator
                        ✨ Bridging the gap between ideas and execution to deliver impactful solutions!
 
-🌟 About Me
-🎓 Currently pursuing [Chuyên ngành: Business Analysis hoặc tên ngành cụ thể] at [Tên trường].
-🧠 Passionate about understanding business challenges and delivering innovative solutions.
-💬 Skilled at analyzing, documenting, and collaborating to meet user and business needs.
+##**🌟 About Me**
+###🎓 Currently pursuing [Chuyên ngành: Business Analysis hoặc tên ngành cụ thể] at [Tên trường].
+###🧠 Passionate about understanding business challenges and delivering innovative solutions.
+###💬 Skilled at analyzing, documenting, and collaborating to meet user and business needs.
 
-🧰 My Skills
-Business Analysis
+##**🧰 My Skills**
+###**Business Analysis**
 📝 Requirement Elicitation & Documentation
 🎨 Wireframes & Mockups (Figma, Balsamiq)
 🔍 Process Mapping & Optimization
 
-Soft Skills
+###**Soft Skills**
 🤝 Excellent Communication & Stakeholder Management
 🔄 Agile & Scrum Methodologies
 🧩 Analytical Thinking & Problem-Solving
 
- Technical Tools
+###**Technical Tools**
 📈 SQL for Data Analysis
 🌐 Familiar with SDLC and project workflows
 🛠️ Proficient in JIRA for task and project management
 
-🗂️ Key Projects
+##**🗂️ Key Projects**
 1. [Tên dự án lớn]
 Description: [Ví dụ: Hệ thống tối ưu quy trình quản lý đơn hàng giúp tiết kiệm 30% thời gian xử lý].
 Skills Used: Business Process Modeling, Requirement Documentation, SQL.
@@ -70,12 +70,12 @@ Role: [Ví dụ: Lead BA, Analyst].
 Description: [Thông tin ngắn gọn về dự án].
 Skills Used: [Các kỹ năng cụ thể liên quan].
 
-🎯 My Career Goals
+##**🎯 My Career Goals**
     🚀 To excel as a Business Analyst who creates seamless solutions for business challenges.
     🌱 Deepening my expertise in data-driven decision making.
-🗺️ Aspiring to contribute to impactful projects in [lĩnh vực yêu thích của bạn, ví dụ: healthcare, finance, education].
+##🗺️ Aspiring to contribute to impactful projects in [lĩnh vực yêu thích của bạn, ví dụ: healthcare, finance, education].
 
-📫 Get in Touch
+##📫 Get in Touch
 <p align="center">
   <a href="mailto:mail của mắm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="URL của linkedIn mắm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
