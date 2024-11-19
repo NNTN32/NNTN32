@@ -40,17 +40,31 @@ Feel free to reach out and connect with me on the following platforms:
                                     🎯 Business Analyst | Problem Solver | Innovator
                        ✨ Bridging the gap between ideas and execution to deliver impactful solutions!
 
-🌟 About Me
+**🌟 About Me**
 
 - 🎓 Pursuing Business Analysis at [Your University Name].
 - 🧠 Passionate about analyzing challenges and delivering innovative solutions.
 - 💬 Focused on understanding business needs and aligning them with user goals.
 
-##**🧰 My Skills**
-###**Business Analysis**
-📝 Requirement Elicitation & Documentation
-🎨 Wireframes & Mockups (Figma, Balsamiq)
-🔍 Process Mapping & Optimization
+## **🧰 Skills**
+
+### Core BA Skills
+
+	•	📝 Requirement Gathering & Documentation
+	•	🎨 Wireframes & Mockups (Figma, Balsamiq)
+	•	🔍 Process Mapping & Optimization
+
+### Soft Skills
+
+	•	🤝 Communication & Stakeholder Management
+	•	🔄 Agile & Scrum Practices
+	•	🧩 Analytical Thinking
+
+### Technical Tools
+
+	•	📈 SQL for Data Analysis
+	•	🛠️ Proficient in JIRA & Confluence
+	•	🌐 Knowledge of SDLC & Project Workflows
 
 ###**Soft Skills**
 🤝 Excellent Communication & Stakeholder Management
