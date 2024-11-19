@@ -40,10 +40,11 @@ Feel free to reach out and connect with me on the following platforms:
                                     🎯 Business Analyst | Problem Solver | Innovator
                        ✨ Bridging the gap between ideas and execution to deliver impactful solutions!
 
-##**🌟 About Me**
-###🎓 Currently pursuing [Chuyên ngành: Business Analysis hoặc tên ngành cụ thể] at [Tên trường].
-###🧠 Passionate about understanding business challenges and delivering innovative solutions.
-###💬 Skilled at analyzing, documenting, and collaborating to meet user and business needs.
+🌟 About Me
+
+🎓 Pursuing Business Analysis at [Your University Name].
+🧠 Passionate about analyzing challenges and delivering innovative solutions.
+💬 Focused on understanding business needs and aligning them with user goals.
 
 ##**🧰 My Skills**
 ###**Business Analysis**
