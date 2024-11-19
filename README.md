@@ -63,23 +63,14 @@ Feel free to reach out and connect with me on the following platforms:
 - 🛠️ Proficient in JIRA & Confluence
 - 🌐 Knowledge of SDLC & Project Workflows
 
+## **🗂️ Projects**
 
+## **🎯 Career Goals**
+- 🚀 Excel as a Business Analyst driving data-driven decisions.
+- 🌱 Expand expertise in analytics and user-centric design.
+- 🗺️ Contribute to impactful projects in healthcare, education, or finance.
 
-##**🗂️ Key Projects**
-1. [Tên dự án lớn]
-Description: [Ví dụ: Hệ thống tối ưu quy trình quản lý đơn hàng giúp tiết kiệm 30% thời gian xử lý].
-Skills Used: Business Process Modeling, Requirement Documentation, SQL.
-Role: [Ví dụ: Lead BA, Analyst].
-2. [Tên dự án khác]
-Description: [Thông tin ngắn gọn về dự án].
-Skills Used: [Các kỹ năng cụ thể liên quan].
-
-##**🎯 My Career Goals**
-    🚀 To excel as a Business Analyst who creates seamless solutions for business challenges.
-    🌱 Deepening my expertise in data-driven decision making.
-##🗺️ Aspiring to contribute to impactful projects in [lĩnh vực yêu thích của bạn, ví dụ: healthcare, finance, education].
-
-##📫 Get in Touch
+## **📫 Get in Touch**
 <p align="center">
   <a href="mailto:mail của mắm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="URL của linkedIn mắm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -87,5 +78,5 @@ Skills Used: [Các kỹ năng cụ thể liên quan].
 </p>
 
 <p align="center">
-  <a>Cảm ơn bạn đã ghé thăm! Together, let’s turn ideas into reality. 🌟</a>
+  <a>✨ *Thank you for visiting! Let’s turn ideas into reality together.* ✨ </a>
 </p>
