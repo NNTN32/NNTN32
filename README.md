@@ -42,9 +42,9 @@ Feel free to reach out and connect with me on the following platforms:
 
 🌟 About Me
 
-🎓 Pursuing Business Analysis at [Your University Name].
-🧠 Passionate about analyzing challenges and delivering innovative solutions.
-💬 Focused on understanding business needs and aligning them with user goals.
+- 🎓 Pursuing Business Analysis at [Your University Name].
+- 🧠 Passionate about analyzing challenges and delivering innovative solutions.
+- 💬 Focused on understanding business needs and aligning them with user goals.
 
 ##**🧰 My Skills**
 ###**Business Analysis**
