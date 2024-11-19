@@ -49,32 +49,21 @@ Feel free to reach out and connect with me on the following platforms:
 ## **🧰 Skills**
 
 ### Core BA Skills
-
-	•	📝 Requirement Gathering & Documentation
-	•	🎨 Wireframes & Mockups (Figma, Balsamiq)
-	•	🔍 Process Mapping & Optimization
+- 📝 Requirement Gathering & Documentation
+- 🎨 Wireframes & Mockups (Figma, Balsamiq)
+- 🔍 Process Mapping & Optimization
 
 ### Soft Skills
-
-	•	🤝 Communication & Stakeholder Management
-	•	🔄 Agile & Scrum Practices
-	•	🧩 Analytical Thinking
+- 🤝 Communication & Stakeholder Management
+- 🔄 Agile & Scrum Practices
+- 🧩 Analytical Thinking
 
 ### Technical Tools
+- 📈 SQL for Data Analysis
+- 🛠️ Proficient in JIRA & Confluence
+- 🌐 Knowledge of SDLC & Project Workflows
 
-	•	📈 SQL for Data Analysis
-	•	🛠️ Proficient in JIRA & Confluence
-	•	🌐 Knowledge of SDLC & Project Workflows
 
-###**Soft Skills**
-🤝 Excellent Communication & Stakeholder Management
-🔄 Agile & Scrum Methodologies
-🧩 Analytical Thinking & Problem-Solving
-
-###**Technical Tools**
-📈 SQL for Data Analysis
-🌐 Familiar with SDLC and project workflows
-🛠️ Proficient in JIRA for task and project management
 
 ##**🗂️ Key Projects**
 1. [Tên dự án lớn]
