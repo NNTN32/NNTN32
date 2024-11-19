@@ -23,7 +23,9 @@
 
 ## 🌐 Let's Connect
 
-🤝 Feel free to reach out and connect with me on the following platforms 🗂️
+<p align="center">
+  <a>🤝 Feel free to reach out and connect with me on the following platforms 🗂️</a>
+</p>
 
 <p align="center">
   <a href="mailto:thanhnhanna102003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
