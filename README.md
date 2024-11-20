@@ -4,7 +4,7 @@
 ## 🌟 About Me
 
 - 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
-- 🌱 **Learning**: I’m currently learning everything about
+- 🌱 **Learning**: I’m currently learning everything 
 - 🥅 **Goals**: Learn more and become a better programmer, a fullstack developer
 - ⚡ **Fun Fact**: I hit the gym after debugging to recharge!
 
