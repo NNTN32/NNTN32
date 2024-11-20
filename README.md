@@ -11,8 +11,8 @@ I enjoy building innovative solutions, solving problems, and contributing to ope
 Currently exploring **Docker**, while working on **WebSiteNPT**—a full-featured e-commerce platform for fashion and accessories.  
 
 - 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
-- 🌱 **Learning**: I’m currently learning everything about ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- 🥅 Goals: Learn more and become a better programmer, a fullstack developer
+- 🌱 **Learning**: I’m currently learning everything about
+- 🥅 **Goals**: Learn more and become a better programmer, a fullstack developer
 - ⚡ **Fun Fact**: I hit the gym after debugging to recharge!
 
 
@@ -27,6 +27,8 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white">
 </div>
 
 
