@@ -65,7 +65,7 @@
 
 
 
-<div style="background-image: url('https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png'); background-size: cover; padding: 50px; text-align: center; border-radius: 10px;">
+<div style="background-image: url('![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)'); background-size: cover; padding: 50px; text-align: center; border-radius: 10px;">
   <p>🤝 Feel free to reach out and connect with me on the following platforms 🗂️</p>
   
   <p>
