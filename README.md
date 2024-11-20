@@ -41,6 +41,8 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
     <ul style="list-style: none; padding: 0; margin: 0; text-align: left; width: 100%;">
       <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
     </ul>
+          <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
+
   </div>
 </div>
 
