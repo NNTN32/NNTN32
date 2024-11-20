@@ -65,23 +65,6 @@
 
 ![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer.png)
 
-<div style="background-image: url('https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer.png'); background-size: cover; padding: 50px; text-align: center; border-radius: 10px;">
-  <p>🤝 Feel free to reach out and connect with me on the following platforms 🗂️</p>
-  
-  <p>
-    <a href="mailto:thanhnhanna102003@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/masonnn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/NNTN32">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
-
-  <p>🚀 Let's code, build, and innovate! 🔧</p>
-</div>
 
 
 
