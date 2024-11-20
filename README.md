@@ -7,9 +7,6 @@
 
 ## 🌟 About Me
 
-I enjoy building innovative solutions, solving problems, and contributing to open-source projects.  
-Currently exploring **Docker**, while working on **WebSiteNPT**—a full-featured e-commerce platform for fashion and accessories.  
-
 - 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
 - 🌱 **Learning**: I’m currently learning everything about
 - 🥅 **Goals**: Learn more and become a better programmer, a fullstack developer
