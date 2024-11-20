@@ -63,8 +63,7 @@
   <a>🚀 Let's code, build, and innovate! 🔧</a>
 </p>
 
-![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer.png)
-
+![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer1.png)
 
 
 
