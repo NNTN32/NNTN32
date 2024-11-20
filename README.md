@@ -1,5 +1,5 @@
                                                👋 Hi, I'm Nhan!
-                          🌟 Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
+                          🌟 Backend Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
@@ -42,7 +42,7 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 
 ## 🌟 Featured Projects
  📈 A full-featured e-commerce platform offering clothes and accessories.
-- GitHub: [🛍️ WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
+- [🛍️ WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
   
 
 ---
