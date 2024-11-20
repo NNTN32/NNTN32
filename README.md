@@ -35,17 +35,17 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="background: #1e1e2f; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <!-- Stats Section -->
+  <div style="background: #1e1e2f; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s; width: 350px; display: flex; flex-direction: column; align-items: center;">
     <h3>📈 Stats</h3>
-    <ul style="list-style: none; padding: 0; margin: 0;">
+    <ul style="list-style: none; padding: 0; margin: 0; text-align: left; width: 100%;">
       <li>Total Stars: ⭐ 100</li>
       <li>Total Commits (2024): 📈 1.8k</li>
       <li>Total PRs: 🔧 218</li>
       <li>Total Issues: 🐛 4</li>
     </ul>
-    <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
   </div>
-  
 </div>
 
 
