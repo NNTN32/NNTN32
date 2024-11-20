@@ -3,6 +3,7 @@
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
+
   <div class="background-container">
     <div class="overlay"></div>
     <div class="content">
@@ -19,7 +20,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: url('https://imgur.com/a/SjpuV0v') no-repeat center center fixed;
+      background: url('https://imgur.com/undefined') no-repeat center center fixed;
       background-size: cover;
     }
 
