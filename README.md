@@ -1,11 +1,5 @@
-                                               👋 Hi, I'm Nhan!
-                          🌟 Backend Developer | 💡 Problem Solver | 🚀 Tech Enthusiast
-
-      Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
-
 
 ![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)
----
 
 ## 🌟 About Me
 
