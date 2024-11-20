@@ -3,11 +3,6 @@
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
-<div style="background: linear-gradient(to right, #6a11cb, #2575fc); color: white; text-align: center; padding: 40px 20px; border-radius: 8px; font-family: 'Poppins', sans-serif;">
-  <h1>👋 Hi, I'm <span style="color: #ffdd00;">Nhan</span>!</h1>
-  <p style="font-size: 22px;">🌟 Full-Stack Developer | 💡 Problem Solver | 🚀 Tech Enthusiast</p>
-</div>
-
 ---
 
 ## 🌟 About Me
