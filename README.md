@@ -11,7 +11,8 @@ I enjoy building innovative solutions, solving problems, and contributing to ope
 Currently exploring **Docker**, while working on **WebSiteNPT**—a full-featured e-commerce platform for fashion and accessories.  
 
 - 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
-- 🌱 **Learning**: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🌱 **Learning**: I’m currently learning everything about ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🥅 Goals: Learn more and become a better programmer, a fullstack developer
 - ⚡ **Fun Fact**: I hit the gym after debugging to recharge!
 
 
