@@ -23,6 +23,7 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 ## 🛠️ Skills & Tools
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
 </div>
 
  💬 **Languages**  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
