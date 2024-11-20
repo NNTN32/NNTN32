@@ -3,11 +3,9 @@
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
-<img src="file:///Users/nhannguyen/Downloads/8F6ddln%20-%20Imgur.png">
   <div class="background-container">
     <div class="overlay"></div>
     <div class="content">
-      Custom GitHub Background
     </div>
   </div>
 
@@ -20,7 +18,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: url('https://imgur.com/undefined') no-repeat center center fixed;
+      background: url('https://drive.google.com/file/d/1UY1yhJ0ZShKtcXygOmEb7iXmm4mBsKE_/view?usp=sharing') no-repeat center center fixed;
       background-size: cover;
     }
 
