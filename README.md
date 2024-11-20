@@ -3,54 +3,9 @@
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
-  <div class="background-container">
-    <div class="overlay"></div>
-    <div class="content">
-    </div>
-  </div>
 
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background: url('https://drive.google.com/file/d/1UY1yhJ0ZShKtcXygOmEb7iXmm4mBsKE_/view?usp=sharing') no-repeat center center fixed;
-      background-size: cover;
-    }
-
-    .profile-container {
-      background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
-      color: white;
-      padding: 30px;
-      border-radius: 15px;
-      text-align: center;
-      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-      max-width: 600px;
-      width: 100%;
-    }
-
-    h1 {
-      font-size: 2.5em;
-      margin: 0;
-    }
-
-    h2 {
-      font-size: 1.5em;
-      margin: 10px 0;
-    }
-
-    p {
-      font-size: 1.2em;
-    }
-
-    .highlight {
-      color: #FFD700; /* Gold color */
-    }
-  </style>
+<div style="background-image: url('https://drive.google.com/file/d/1UY1yhJ0ZShKtcXygOmEb7iXmm4mBsKE_/view?usp=sharing'); background-size: cover; background-position: center; padding: 50px;">
+</div>
 ---
 
 ## 🌟 About Me
