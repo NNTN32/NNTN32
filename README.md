@@ -42,21 +42,8 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 
 ## 🌟 Featured Projects
  📈 A full-featured e-commerce platform offering clothes and accessories.
-- GitHub: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
+- GitHub: [🛍️ WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
   
-<div class="container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div class="card" style="flex: 1 1 300px; max-width: 300px; padding: 20px; background: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3>🛍️ WebSiteNPT</h3>
-    <p>A full-featured e-commerce platform for clothing & accessories.</p>
-    <a href="https://github.com/NNTN32/WebSiteNPT" style="color: #2575fc;">View Project</a>
-  </div>
-  <div class="card" style="flex: 1 1 300px; max-width: 300px; padding: 20px; background: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3>🎨 Portfolio Website</h3>
-    <p>A modern, responsive website to showcase my skills & projects.</p>
-    <a href="https://github.com/NNTN32/portfolio" style="color: #2575fc;">View Project</a>
-  </div>
-</div>
-
 
 ---
 
