@@ -4,9 +4,7 @@
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
 
-<div style="background-image: url('https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png'); background-size: cover; padding: 50px; height: 400px;">
-  <!-- Your content here -->
-</div>
+![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)
 ---
 
 ## 🌟 About Me
