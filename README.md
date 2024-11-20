@@ -3,7 +3,7 @@
 
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
-
+<img src="file:///Users/nhannguyen/Downloads/8F6ddln%20-%20Imgur.png">
   <div class="background-container">
     <div class="overlay"></div>
     <div class="content">
