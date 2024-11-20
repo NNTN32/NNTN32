@@ -16,7 +16,7 @@ I enjoy building innovative solutions, solving problems, and contributing to ope
 Currently exploring **Docker**, while working on **WebSiteNPT**—a full-featured e-commerce platform for fashion and accessories.  
 
 - 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
-- 🌱 **Learning**: Mastering Docker, Microservices, and Cloud Deployment
+- 🌱 **Learning**: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ⚡ **Fun Fact**: I hit the gym after debugging to recharge!
 
 
@@ -24,6 +24,12 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
 
  💬 **Languages**  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
