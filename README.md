@@ -4,7 +4,7 @@
       Welcome to my GitHub profile! I enjoy building innovative solutions and contributing to open-source projects.
 
 
-<div style="background-image: url('https://drive.google.com/file/d/1UY1yhJ0ZShKtcXygOmEb7iXmm4mBsKE_/view?usp=sharing'); background-size: cover; background-position: center; padding: 50px;">
+<div style="background-image: url('[https://drive.google.com/file/d/1UY1yhJ0ZShKtcXygOmEb7iXmm4mBsKE_/view?usp=sharing](https://imgur.com/8F6ddln)'); background-size: cover; background-position: center; padding: 50px;">
 </div>
 ---
 
