@@ -9,6 +9,7 @@
 - ⚡ **Fun Fact**: I hit the gym after debugging to recharge!
 
 
+
 ## 🛠️ Skills & Tools
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -25,6 +26,7 @@
 </div>
 
 
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Stats Section -->
   <div style="background: #1e1e2f; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s; width: 350px; display: flex; flex-direction: column; align-items: center;">
@@ -35,6 +37,8 @@
     </ul>
   </div>
 </div>
+
+
 
 ## 🌟 Featured Projects
  📈 A full-featured e-commerce platform offering clothes and accessories.
