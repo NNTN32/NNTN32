@@ -40,6 +40,7 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
     <h3>📈 Github Profile Stats</h3>
     <ul style="list-style: none; padding: 0; margin: 0; text-align: left; width: 100%;">
       <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNTN32&layout=compact&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Top Languages" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
     </ul>
   </div>
 </div>
