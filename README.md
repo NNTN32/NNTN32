@@ -45,14 +45,16 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
       <li>Total PRs: 🔧 218</li>
       <li>Total Issues: 🐛 4</li>
     </ul>
+    <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=radical" alt="GitHub Stats">
+  
 </div>
 
 
 ## 🌟 Featured Projects
  📈 A full-featured e-commerce platform offering clothes and accessories.
 - GitHub: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
+  
 <div class="container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div class="card" style="flex: 1 1 300px; max-width: 300px; padding: 20px; background: #f9f9f9; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
     <h3>🛍️ WebSiteNPT</h3>
@@ -82,17 +84,9 @@ Currently exploring **Docker**, while working on **WebSiteNPT**—a full-feature
 </p>
 
 <p align="center">
-  <a>🔧 **Let's code, build, and innovate!** 🚀</a>
+  <a>🚀 Let's code, build, and innovate! 🔧</a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 10px; padding: 20px;">
-  <a href="mailto:thanhnhanna102003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/masonnn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/NNTN32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
-<p align="center">
-  <b>🚀 Let's code, build, and innovate! 🔧</b>
-</p>
 
 
 
