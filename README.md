@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Current Project**: [WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
+- 🔭 **Current Project**: [AI Algorithm Practice Website](https://github.com/NNTN32/WebSiteNPT](https://github.com/NNTN32/WebsiteAlgorithims))
 - 🌱 **Learning**: I’m currently learning everything 
 - 🥅 **Goals**: Learn more and become a better programmer, a fullstack developer
 - ⚡ **Fun Fact**: I often listen to music after debugging to recharge!
@@ -13,12 +13,14 @@
 ## 🛠️ Tools
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
-
 
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -35,10 +37,17 @@
 
 
 ## 🌟 Featured Projects
- 📈 A full-featured e-commerce platform offering clothes and accessories.
-- [🛍️ WebSiteNPT](https://github.com/NNTN32/WebSiteNPT)
-  
 
+👥 A social networking site that allows users to connect, post, comment, and chat in real-time with role-based access control.  
+- [🌐 Social Networking Site](https://github.com/NNTN32/WebsiteSocialNetwork)
+
+🤖 A practice platform focused on AI algorithms, including pathfinding, recommendation systems, and data classification.  
+- [🧠 AI Algorithm Practice Website](https://github.com/NNTN32/WebsiteAlgorithims)
+
+🌍 A dynamic travel booking website where users can browse, book, and manage tours with user authentication and order management.  
+- [✈️ Tour Booking Website](https://github.com/NNTN32/BookingTour)
+
+  
 ---
 
 ## 🌐 Let's Connect
@@ -48,7 +57,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:thanhnhanna102003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:masondaniel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/masonnn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/NNTN32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
