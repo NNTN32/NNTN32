@@ -1,28 +1,24 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png" alt="Banner" style="width: 100%; max-width: 1000px;"/>
-  
+![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)
 
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" />
-    </td>
-    <td>
-      <ul>
+<section style="display: flex; align-items: center; justify-content: space-between; padding: 2rem;">
+  <div>
+    <h2>🌟 About Me</h2>
+    <ul>
       <li>🔭 <strong>Current Project</strong>: <a href="https://github.com/NNTN32/WebsiteAlgorithims" target="_blank">AI Algorithm Practice Website</a></li>
       <li>🌱 <strong>Learning</strong>: I’m currently learning everything</li>
       <li>🥅 <strong>Goals</strong>: Learn more and become a better programmer, a fullstack developer</li>
       <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    </ul>
+  </div>
 
-## 🛠️ Tech Stack
+  <div style="width: 300px;">
+    <script src="https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  </div>
+</section>
 
-<div align="center" style="margin: 20px 0;">
+
+## 🛠️ Tools
+<div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -33,51 +29,49 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="background: linear-gradient(45deg, #1e1e2f, #2d2d44); color: white; padding: 20px; border-radius: 15px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s; width: 350px;">
-    <h3 style="color: #2E8BC0;">📈 GitHub Analytics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNTN32&layout=compact&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Top Languages" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
+  <!-- Stats Section -->
+  <div style="background: #1e1e2f; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s; width: 350px; display: flex; flex-direction: column; align-items: center;">
+    <h3>📈 Github Profile Stats</h3>
+    <ul style="list-style: none; padding: 0; margin: 0; text-align: left; width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNTN32&layout=compact&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Top Languages" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
+    </ul>
   </div>
 </div>
+
+
 
 ## 🌟 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="background: linear-gradient(45deg, #1e1e2f, #2d2d44); padding: 20px; border-radius: 15px; transition: transform 0.3s;">
-    <h3 style="color: #2E8BC0;">👥 Social Network Platform</h3>
-    <p>Real-time social networking with role-based access control, chat, and content sharing.</p>
-    <a href="https://github.com/NNTN32/WebsiteSocialNetwork" style="color: #2E8BC0; text-decoration: none;">→ View Project</a>
-  </div>
-  
-  <div style="background: linear-gradient(45deg, #1e1e2f, #2d2d44); padding: 20px; border-radius: 15px; transition: transform 0.3s;">
-    <h3 style="color: #2E8BC0;">🤖 AI Algorithm Platform</h3>
-    <p>Interactive platform for practicing AI algorithms, pathfinding, and data classification.</p>
-    <a href="https://github.com/NNTN32/WebsiteAlgorithims" style="color: #2E8BC0; text-decoration: none;">→ View Project</a>
-  </div>
-  
-  <div style="background: linear-gradient(45deg, #1e1e2f, #2d2d44); padding: 20px; border-radius: 15px; transition: transform 0.3s;">
-    <h3 style="color: #2E8BC0;">🌍 Tour Booking System</h3>
-    <p>Dynamic travel booking platform with user authentication and order management.</p>
-    <a href="https://github.com/NNTN32/BookingTour" style="color: #2E8BC0; text-decoration: none;">→ View Project</a>
-  </div>
-</div>
+👥 A social networking site that allows users to connect, post, comment, and chat in real-time with role-based access control.  
+- [🌐 Social Networking Site](https://github.com/NNTN32/WebsiteSocialNetwork)
 
-## 🌐 Connect With Me
+🤖 A practice platform focused on AI algorithms, including pathfinding, recommendation systems, and data classification.  
+- [🧠 AI Algorithm Practice Website](https://github.com/NNTN32/WebsiteAlgorithims)
 
-<div align="center" style="margin: 20px 0;">
+🌍 A dynamic travel booking website where users can browse, book, and manage tours with user authentication and order management.  
+- [✈️ Tour Booking Website](https://github.com/NNTN32/BookingTour)
+
+  
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a>🤝 Feel free to reach out and connect with me on the following platforms 🗂️</a>
+</p>
+
+<p align="center">
   <a href="mailto:masondaniel.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/masonnn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/NNTN32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
+</p>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer1.png" alt="Footer" style="width: 100%; max-width: 1000px;"/>
-</div>
-<style>
-  div:hover {
-    transform: translateY(-5px);
-  }
-</style>
+<p align="center">
+  <a>🚀 Let's code, build, and innovate! 🔧</a>
+</p>
+
+![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer1.png)
