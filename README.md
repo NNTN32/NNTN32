@@ -1,13 +1,29 @@
 
 ![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)
 
-## 🌟 About Me
+<section style="display: flex; align-items: center; justify-content: space-between; padding: 2rem;">
+  <div>
+    <h2>🌟 About Me</h2>
+    <ul>
+      <li>🔭 <strong>Current Project</strong>: <a href="https://github.com/NNTN32/WebsiteAlgorithims" target="_blank">AI Algorithm Practice Website</a></li>
+      <li>🌱 <strong>Learning</strong>: I’m currently learning everything</li>
+      <li>🥅 <strong>Goals</strong>: Learn more and become a better programmer, a fullstack developer</li>
+      <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
+    </ul>
+  </div>
 
-- 🔭 **Current Project**: [AI Algorithm Practice Website](https://github.com/NNTN32/WebSiteNPT](https://github.com/NNTN32/WebsiteAlgorithims))
-- 🌱 **Learning**: I’m currently learning everything 
-- 🥅 **Goals**: Learn more and become a better programmer, a fullstack developer
-- ⚡ **Fun Fact**: I often listen to music after debugging to recharge!
-
+  <div style="width: 300px;">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <lottie-player
+      src="https://assets9.lottiefiles.com/packages/lf20_jtbfg2nb.json"  
+      background="transparent"
+      speed="1"
+      style="width: 300px; height: 300px;"
+      loop
+      autoplay
+    ></lottie-player>
+  </div>
+</section>
 
 
 ## 🛠️ Tools
