@@ -24,20 +24,14 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 2rem; background: linear-gradient(45deg, #1a1a1a, #2d2d2d); border-radius: 15px; margin: 20px 0;">
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0;">
-      <li style="margin: 15px 0;">🎯 <strong>Current Focus</strong>: Building AI-powered applications and full-stack solutions</li>
-      <li style="margin: 15px 0;">🌱 <strong>Learning</strong>: Advanced AI/ML, Cloud Architecture, and System Design</li>
-      <li style="margin: 15px 0;">💡 <strong>Goals</strong>: Becoming a Full Stack Developer and AI Specialist</li>
-      <li style="margin: 15px 0;">⚡ <strong>Fun Fact</strong>: I debug to the rhythm of music! 🎵</li>
-    </ul>
-  </div>
-  <div style="width: 300px;">
-    <script src="https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-    <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_kkflmtur.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
 </div>
+
+- 🎯 **Current Focus**: Building AI-powered applications and full-stack solutions
+- 🌱 **Learning**: Advanced AI/ML, Cloud Architecture, and System Design
+- 💡 **Goals**: Becoming a Full Stack Developer and AI Specialist
+- ⚡ **Fun Fact**: I debug to the rhythm of music! 🎵
 
 ## 🛠️ Tech Stack
 
