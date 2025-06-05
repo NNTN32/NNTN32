@@ -2,7 +2,7 @@
 
 <section style="display: flex; align-items: center; justify-content: space-between; padding: 2rem;">
   <!-- Phần nội dung văn bản -->
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 250px;">
     <h2>🌟 About Me</h2>
     <ul>
       <li>🔭 <strong>Current Project</strong>: 
@@ -10,15 +10,15 @@
           AI Algorithm Practice Website
         </a>
       </li>
-      <li>🌱 <strong>Learning</strong>: I’m currently learning everything</li>
+      <li>🌱 <strong>Learning</strong>: I'm currently learning everything</li>
       <li>🥅 <strong>Goals</strong>: Learn more and become a better programmer, a fullstack developer</li>
       <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
     </ul>
   </div>
 
   <!-- Phần hình ảnh GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" />
+  <div style="flex-shrink: 0; min-width: 220px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" style="display: block;" />
   </div>
 </section>
 
