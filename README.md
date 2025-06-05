@@ -25,13 +25,13 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
 </div>
 
-- 🎯 **Current Focus**: Building AI-powered applications and full-stack solutions
-- 🌱 **Learning**: Advanced AI/ML, Cloud Architecture, and System Design
-- 💡 **Goals**: Becoming a Full Stack Developer and AI Specialist
-- ⚡ **Fun Fact**: I debug to the rhythm of music! 🎵
+- 🌱 I'm currently learning everything
+- 🛋️ Goals: Learn more and become a better programmer
+- ⚡ Fun fact: I love to go to the gym after encountering bug codes
+- 😺 Check out the Portfolio I created: [Call me Binh](#)
 
 ## 🛠️ Tech Stack
 
