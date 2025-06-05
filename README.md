@@ -15,11 +15,6 @@
       <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
     </ul>
   </div>
-
-  <!-- Phần hình ảnh GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" style="display: block; border-radius: 10px;" />
-  </div>
 </section>
 
 
