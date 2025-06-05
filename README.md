@@ -76,3 +76,8 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer1.png" alt="Footer" style="width: 100%; max-width: 1000px;"/>
 </div>
+<style>
+  div:hover {
+    transform: translateY(-5px);
+  }
+</style>
