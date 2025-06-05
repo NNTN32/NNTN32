@@ -1,26 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png" alt="Banner" style="width: 100%; max-width: 1000px;"/>
   
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mason;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=NNTN32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NNTN32&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NNTN32&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 ## 🚀 About Me
 
@@ -31,10 +11,10 @@
     </td>
     <td>
       <ul>
-        <li>🌱 I'm currently learning everything</li>
-        <li>🛋️ Goals: Learn more and become a better programmer</li>
-        <li>⚡ Fun fact: I love to go to the gym after encountering bug codes</li>
-        <li>😺 Check out the Portfolio I created: <a href=\"#\">Call me Binh</a></li>
+      <li>🔭 <strong>Current Project</strong>: <a href="https://github.com/NNTN32/WebsiteAlgorithims" target="_blank">AI Algorithm Practice Website</a></li>
+      <li>🌱 <strong>Learning</strong>: I’m currently learning everything</li>
+      <li>🥅 <strong>Goals</strong>: Learn more and become a better programmer, a fullstack developer</li>
+      <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
       </ul>
     </td>
   </tr>
@@ -96,9 +76,3 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/NNTN32/NNTN32/main/Footer1.png" alt="Footer" style="width: 100%; max-width: 1000px;"/>
 </div>
-
-<style>
-  div:hover {
-    transform: translateY(-5px);
-  }
-</style>
