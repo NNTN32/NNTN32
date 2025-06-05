@@ -24,14 +24,21 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
-</div>
-
-- 🌱 I'm currently learning everything
-- 🛋️ Goals: Learn more and become a better programmer
-- ⚡ Fun fact: I love to go to the gym after encountering bug codes
-- 😺 Check out the Portfolio I created: [Call me Binh](#)
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" />
+    </td>
+    <td>
+      <ul>
+        <li>🌱 I'm currently learning everything</li>
+        <li>🛋️ Goals: Learn more and become a better programmer</li>
+        <li>⚡ Fun fact: I love to go to the gym after encountering bug codes</li>
+        <li>😺 Check out the Portfolio I created: <a href=\"#\">Call me Binh</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
