@@ -35,7 +35,7 @@
   </div>
   <div style="width: 300px;">
     <script src="https://cdn.jsdelivr.net/npm/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-    <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_3vbOcw.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+    <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_kkflmtur.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
   </div>
 </div>
 
