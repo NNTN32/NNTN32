@@ -9,6 +9,9 @@
       <li>🥅 <strong>Goals</strong>: Learn more and become a better programmer, a fullstack developer</li>
       <li>⚡ <strong>Fun Fact</strong>: I often listen to music after debugging to recharge!</li>
     </ul>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" />
+    </td>
   </div>
 
   <div style="width: 300px;">
