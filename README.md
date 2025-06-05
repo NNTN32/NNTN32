@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/NNTN32/NNTN32/main/Cover.png)
 
-<section style="display: flex; align-items: center; justify-content: space-between; padding: 2rem;">
+<section style="display: flex; align-items: flex-start; gap: 32px; padding: 2rem 0;">
   <!-- Phần nội dung văn bản -->
   <div style="flex: 1; min-width: 250px;">
     <h2>🌟 About Me</h2>
@@ -17,8 +17,8 @@
   </div>
 
   <!-- Phần hình ảnh GIF -->
-  <div style="flex-shrink: 0; min-width: 220px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" style="display: block;" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation" style="display: block; border-radius: 10px;" />
   </div>
 </section>
 
