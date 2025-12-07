@@ -32,19 +32,6 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Stats Section -->
-  <div style="background: #1e1e2f; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s; width: 350px; display: flex; flex-direction: column; align-items: center;">
-    <h3>📈 Github Profile Stats</h3>
-    <ul style="list-style: none; padding: 0; margin: 0; text-align: left; width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=NNTN32&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="GitHub Stats" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNTN32&layout=compact&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Top Languages" style="margin-top: 20px; max-width: 100%; border-radius: 10px;">
-    </ul>
-  </div>
-</div>
-
-
-
 ## 🌟 Featured Projects
 
 👥 A social networking site that allows users to connect, post, comment, and chat in real-time with role-based access control.  
