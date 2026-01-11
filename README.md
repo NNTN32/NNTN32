@@ -34,14 +34,8 @@
 
 ## 🌟 Featured Projects
 
-👥 A social networking site that allows users to connect, post, comment, and chat in real-time with role-based access control.  
-- [🌐 Social Networking Site](https://github.com/NNTN32/WebsiteSocialNetwork)
-
 🤖 A practice platform focused on AI algorithms, including pathfinding, recommendation systems, and data classification.  
 - [🧠 AI Algorithm Practice Website](https://github.com/NNTN32/WebsiteAlgorithims)
-
-🌍 A dynamic travel booking website where users can browse, book, and manage tours with user authentication and order management.  
-- [✈️ Tour Booking Website](https://github.com/NNTN32/BookingTour)
 
   
 ---
